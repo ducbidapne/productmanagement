@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17280252449",
+    "project_id": "productmanagement-fe02a",
+    "storage_bucket": "productmanagement-fe02a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17280252449:android:624bb57868aa1d45f78160",
+        "android_client_info": {
+          "package_name": "com.firebasecrud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAllnOLC7N0fRBtQMBD9Bl1mBbwKRml_uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
